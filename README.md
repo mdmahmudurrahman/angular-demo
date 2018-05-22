@@ -35,3 +35,4 @@ Use --save to mark the package as a production dependency
 -> Decorators are always precedeed with @ symbol. Ex. @Component
 -> We use decorator to add metadata(additional information) to a ts class. For example we use @Component to tell the angular that this type script class is an angular component. 
 
+## templateUrl vs template
