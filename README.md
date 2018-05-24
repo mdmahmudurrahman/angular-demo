@@ -41,3 +41,5 @@ Use --save to mark the package as a production dependency
 ```
 import { FormsModule } from '@angular/forms'; 
 ```
+
+### *ngIf is a structural directive which add or remove element but attribute directive don't do this. 
