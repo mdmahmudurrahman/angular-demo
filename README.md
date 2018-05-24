@@ -43,3 +43,5 @@ import { FormsModule } from '@angular/forms';
 ```
 
 ### *ngIf is a structural directive which add or remove element but attribute directive don't do this. 
+
+### ngStyle allows us to change the css style but ngClass allows use to add or remove css class.
